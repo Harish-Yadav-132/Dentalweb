@@ -1,1 +1,1 @@
-# Nothing to describe yet
+Cool looking Dental website with Django.
